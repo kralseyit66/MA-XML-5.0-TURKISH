@@ -2,7 +2,7 @@
 <resources>
   <string name="account_contact_backup_info">Veri (Xiaomi ve Gmail e Yedekleme Bilgisi)</string>
   <string name="account_login">Giriş</string>
-  <string name="account_summary">Gmail, E-mail ve Xiaomi Hesebını Yedekle</string>
+  <string name="account_summary">Gmail, E-mail ve Xiaomi Hesabını Yedekle</string>
   <string name="already_enable_encrypt">Şifreleme Etkin</string>
   <string name="app_name">Yedekle</string>
   <string name="auto_backup">Otomatik Yedekle</string>
